@@ -19,4 +19,4 @@ Input: 47
 Output: 244
 
 Input: qwerty
-Output: 
+Output: Please enter valid number.
